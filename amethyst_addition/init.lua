@@ -489,7 +489,7 @@ minetest.register_craft({
     }
 })
 minetest.register_craft({
-    output = "amethyst_aaddition:amethyst_leggings",
+    output = "amethyst_addition:amethyst_leggings",
     recipe = {
         {"amethyst_geode:amethyst_shard", "amethyst_geode:amethyst_shard", "amethyst_geode:amethyst_shard"},
         {"amethyst_geode:amethyst_shard", "", "amethyst_geode:amethyst_shard"},
